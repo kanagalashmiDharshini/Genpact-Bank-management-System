@@ -1,2 +1,2 @@
-# Genpact
+
 #Bank Managment System
